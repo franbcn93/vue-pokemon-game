@@ -2,6 +2,8 @@
 
 Puedes ver una prueba de este proyecto [Aquí](https://upbeat-bose-a26b66.netlify.app)
 
+You can see a test of this project [Here](https://upbeat-bose-a26b66.netlify.app)
+
 ## Project setup
 
 ```
